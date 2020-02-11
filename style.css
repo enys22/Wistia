@@ -9,9 +9,6 @@ body{
     color: #363945;
 }
 /* Navogation Bar */
-.white-top{
-    height: 65px;
-}
 nav {
     display: flex;
     justify-content: space-between;
